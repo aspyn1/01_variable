@@ -2,7 +2,7 @@ package edu.kh.variable.practice;
 
 import java.util.Scanner;
 
-public class CatingPractice3 {
+public class CastingPractice3 {
 	
 	public static void main(String[] args) {
 		
